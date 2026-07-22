@@ -1,0 +1,46 @@
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+class Solution {
+private:
+    long long solve(const vector<int>& nums, int k, bool is_multiply) {
+        int n = nums.size();
+        long long INF = 1e18;
+
+        long long dp0 = -INF;
+        long long dp1 = -INF;
+        long long dp2 = -INF;
+
+        long long max_sum = -INF;
+
+        for (int i = 0; i < n; ++i) {
+            long long x = nums[i];
+            long long gx = is_multiply ? (x * k) : (x / k);
+
+            long long new_dp0 = max(x, dp0 + x);
+            long long new_dp1 = gx + max({0LL, dp0, dp1});
+            long long new_dp2 = x + max(dp1, dp2);
+
+            // dp1 and dp2 are always valid because the operation was already used
+            max_sum = max({max_sum, new_dp1, new_dp2});
+
+            // dp0 is valid only if there is room to the right for the operation
+            if (i < n - 1) {
+                max_sum = max(max_sum, new_dp0);
+            }
+
+            dp0 = new_dp0;
+            dp1 = new_dp1;
+            dp2 = new_dp2;
+        }
+
+        return max_sum;
+    }
+
+public:
+    long long maxSubarraySum(vector<int>& nums, int k) {
+        return max(solve(nums, k, true), solve(nums, k, false));
+    }
+};

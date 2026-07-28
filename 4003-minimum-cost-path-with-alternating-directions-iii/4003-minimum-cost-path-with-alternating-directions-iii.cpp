@@ -13,6 +13,8 @@ public:
             pq.pop();
             if(i==m-1 && j==n-1)
             return val;
+            if(val>adj[i][j][chance])
+            continue;
             if(adj[i][j][1-chance]>val+penalty[i][j]){
                 adj[i][j][1-chance]=val+penalty[i][j];
                 pq.push({val+penalty[i][j],i,j,1-chance});

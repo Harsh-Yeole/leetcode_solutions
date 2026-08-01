@@ -130,6 +130,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -143,13 +144,23 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Array
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->

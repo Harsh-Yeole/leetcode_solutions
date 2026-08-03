@@ -124,11 +124,13 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -163,4 +166,12 @@
 |  |
 | ------- |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->

@@ -123,6 +123,7 @@
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -139,6 +140,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -165,6 +167,7 @@
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 ## Matrix
 |  |
@@ -181,6 +184,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
@@ -208,4 +212,8 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->

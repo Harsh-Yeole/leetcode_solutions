@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -275,4 +278,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -158,6 +158,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -282,4 +283,20 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+## Memoization
+|  |
+| ------- |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+## Combinatorics
+|  |
+| ------- |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 <!---LeetCode Topics End-->

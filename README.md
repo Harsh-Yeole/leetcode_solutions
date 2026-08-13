@@ -184,6 +184,7 @@
 | [0239-sliding-window-maximum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+| [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
+| [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
+| [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -286,6 +290,7 @@
 ## Math
 |  |
 | ------- |
+| [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Bit Manipulation
 |  |

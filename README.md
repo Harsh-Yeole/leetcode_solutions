@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -304,4 +305,8 @@
 |  |
 | ------- |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

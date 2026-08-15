@@ -251,6 +251,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -297,6 +298,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Bit Manipulation
@@ -321,6 +323,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |

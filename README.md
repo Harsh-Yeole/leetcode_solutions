@@ -158,6 +158,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Breadth-First Search
 |  |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Bit Manipulation
@@ -336,4 +338,24 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

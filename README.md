@@ -185,6 +185,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
@@ -210,6 +211,7 @@
 | [0141-linked-list-cycle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Memoization
 |  |

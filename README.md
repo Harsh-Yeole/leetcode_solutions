@@ -188,6 +188,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 ## Matrix
 |  |
@@ -226,6 +227,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Database
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Memoization
 |  |

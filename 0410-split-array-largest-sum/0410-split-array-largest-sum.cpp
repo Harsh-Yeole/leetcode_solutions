@@ -1,12 +1,13 @@
 class Solution {
 public:
-    int check(int n,int k,int d,vector<int>&v){
+    bool check(int n,int k,int mid,vector<int>&v){
         int cnt=0;
         int sum=0;
         int l=0;
         while(l<n){
+            if(v[l]>mid)return false;
             sum+=v[l];
-            if(sum>d){
+            if(sum>mid){
                 sum=v[l];
                 cnt++;
             }
@@ -15,7 +16,8 @@ public:
         if(sum>0){
             cnt++;
         }
-        return cnt;
+        if(cnt<=k)return true;
+        return false;
     }
     int splitArray(vector<int>& nums, int k) {
         int n=nums.size();
@@ -24,15 +26,17 @@ public:
             high+=nums[i];
             low=max(low,nums[i]);
         }
+        int ans=INT_MAX;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(check(n,k,mid,nums)>k){
-                low=mid+1;
-            }
-            else{
+            if(check(n,k,mid,nums)){
+                ans=mid;
                 high=mid-1;
             }
+            else{
+                low=mid+1;
+            }
         }
-        return low;
+        return ans;
     }
 };

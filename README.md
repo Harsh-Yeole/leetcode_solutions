@@ -192,6 +192,7 @@
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+| [1901-find-a-peak-element-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |

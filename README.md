@@ -220,10 +220,12 @@
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
 |  |
 | ------- |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

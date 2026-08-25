@@ -214,6 +214,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -226,6 +227,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
@@ -305,6 +307,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |

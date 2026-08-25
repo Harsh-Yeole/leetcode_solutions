@@ -191,6 +191,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -221,6 +222,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -394,4 +397,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->

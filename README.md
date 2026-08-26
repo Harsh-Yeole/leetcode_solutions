@@ -159,6 +159,7 @@
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Breadth-First Search
@@ -232,6 +233,7 @@
 | [0076-minimum-window-substring](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0901-online-stock-span) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
@@ -400,6 +403,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
@@ -417,4 +421,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

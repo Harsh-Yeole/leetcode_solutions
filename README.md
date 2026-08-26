@@ -192,6 +192,7 @@
 | [0455-assign-cookies](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
@@ -399,6 +400,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |

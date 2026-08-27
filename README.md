@@ -156,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -181,6 +182,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -403,6 +405,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0455-assign-cookies) |

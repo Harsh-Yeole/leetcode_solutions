@@ -162,6 +162,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [1301-number-of-paths-with-max-score](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Breadth-First Search
@@ -199,6 +200,7 @@
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1301-number-of-paths-with-max-score](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -209,6 +211,7 @@
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+| [1301-number-of-paths-with-max-score](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Lifting
 |  |

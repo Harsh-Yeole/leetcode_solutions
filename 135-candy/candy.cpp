@@ -1,27 +1,30 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        int n=ratings.size();
-        vector<pair<int,int>>store;
-        for(int i=0;i<ratings.size();i++){
-            store.push_back({ratings[i],i});
-        }
-        sort(store.begin(),store.end());
-        vector<int>ans(ratings.size(),1);
-        for(auto &it:store){
-            int indx=it.second;
-            int rat=0;
-            if(indx-1>=0 && ratings[indx-1]<ratings[indx]){
-                rat=max(rat,ans[indx-1]);
-            }
-            if(indx+1<=n-1 && ratings[indx+1]<ratings[indx]){
-                rat=max(rat,ans[indx+1]);
-            }
-            ans[indx]=rat+1;
-        }
         int sum=0;
-        for(auto &it:ans){
-            sum+=it;
+        int i=1;
+        int n=ratings.size();
+        sum=1;
+        while(i<n){
+            if(i>=1 && ratings[i]==ratings[i-1]){
+                sum+=1;
+                i++;
+                continue;
+            }
+            int peak=1;
+            while(i<n && ratings[i]>ratings[i-1]){
+                peak++;
+                sum+=peak;
+                i++;
+            }
+            int down=1;
+            while(i<n && ratings[i]<ratings[i-1]){
+                sum+=down;
+                i++;
+                down++;
+            }
+            if(down>peak)
+            sum+=(down-peak);
         }
         return sum;
     }

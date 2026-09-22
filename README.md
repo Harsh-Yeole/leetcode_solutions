@@ -156,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0055-jump-game) |
@@ -244,6 +245,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -283,6 +285,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -446,6 +449,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bitmask
 |  |

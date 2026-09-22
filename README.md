@@ -172,6 +172,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Array
 |  |
@@ -203,6 +205,7 @@
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1776-car-fleet-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1776-car-fleet-ii) |

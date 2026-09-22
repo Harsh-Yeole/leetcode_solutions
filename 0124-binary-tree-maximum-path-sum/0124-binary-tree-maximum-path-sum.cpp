@@ -11,24 +11,22 @@
  */
 class Solution {
 public:
-    pair<int,int> f(TreeNode* root){
-        if(root==NULL)
-        return {-1e8,0};
-        pair<int,int>left=f(root->left);
-        pair<int,int>right=f(root->right);
-        int mxleft=left.first;
-        int mxright=right.first;
-        int sumleft=left.second;
-        int sumright=right.second;
-        int mx=max(mxleft,mxright);
-        int sum=(sumleft+sumright+root->val);
-        mx=max(sum,mx);
-        sum=max(sumleft,sumright)+root->val;
-        sum=max(0,sum);
-        return{mx,sum};
+    int f(TreeNode* node,int &mx){
+        int left=0;
+        int right=0;
+        int sum=node->val;
+        if(node->left!=NULL)
+        left+=f(node->left,mx);
+        if(node->right!=NULL)
+        right+=f(node->right,mx);
+        int total=sum+left+right;
+        sum=max({0,sum+left,sum+right});
+        mx=max(mx,total);
+        return sum;
     }
     int maxPathSum(TreeNode* root) {
-        pair<int,int>ans=f(root);
-        return ans.first;
+        int mx=-1001;
+        f(root,mx);
+        return mx;
     }
 };

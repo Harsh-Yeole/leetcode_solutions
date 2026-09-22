@@ -162,6 +162,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0827-making-a-large-island](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0827-making-a-large-island) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
@@ -179,6 +181,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Array
 |  |
@@ -347,6 +350,7 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Memoization
@@ -434,4 +438,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->

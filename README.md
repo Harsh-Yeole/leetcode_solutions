@@ -156,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0085-maximal-rectangle) |
@@ -243,6 +244,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -415,6 +418,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Yeole/leetcode_solutions/tree/master/0410-split-array-largest-sum) |

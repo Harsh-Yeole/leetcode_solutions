@@ -1,13 +1,15 @@
 class Solution {
 public:
     int dfs(int node,int parent,vector<vector<int>>&adj,int &ans,string &s){
-        priority_queue<int>pq;
+        priority_queue<int,vector<int>,greater<int>>pq;
         int a=0,b=0;
         for(auto &it:adj[node]){
             if(it!=parent){
                 if(s[it]!=s[node]){
                     int cal=dfs(it,node,adj,ans,s);
                     pq.push(cal);
+                    if(pq.size()>2)
+                    pq.pop();
                 }
                 else{
                     int cal=dfs(it,node,adj,ans,s);
@@ -16,15 +18,17 @@ public:
             }
         }
         if(pq.size()>0){
-        a=pq.top();
-        pq.pop();
-        }
-        if(pq.size()>0){
         b=pq.top();
         pq.pop();
         }
-        ans=max(ans,a+b+1);
-        return a+1;
+        if(pq.size()>0){
+        a=pq.top();
+        pq.pop();
+        }
+        int mx=max(a,b);
+        int mn=min(a,b);
+        ans=max(ans,a=mx+mn+1);
+        return mx+1;
     }
     int longestPath(vector<int>& parent, string s) {
         int n=parent.size();

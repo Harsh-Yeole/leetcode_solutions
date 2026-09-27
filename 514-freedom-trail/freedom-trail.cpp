@@ -1,31 +1,34 @@
 class Solution {
 public:
+    int mindis(int i,int j,int n){
+        int dis=abs(i-j);
+        dis=min(dis,n-dis);
+        return dis;
+    }
     int findRotateSteps(string ring, string key) {
-        queue<vector<int>>q;
-        int n=ring.size(),m=key.size();
-        vector<vector<int>>visited(n,vector<int>(m,0));
+        int n=ring.size();
+        int m=key.size();
+        vector<vector<int>>store(26);
+        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>q;
+        vector<vector<int>> dist(n, vector<int>(m + 1, 1e9));
+        for(int i=0;i<n;i++){
+            store[ring[i]-'a'].push_back(i);
+        }
         q.push({0,0,0});
+        dist[0][0]=0;
         while(!q.empty()){
-            int size=q.size();
-                for(int k=0;k<size;k++){
-                vector<int>v=q.front();
-                q.pop();
-                if(v[2]==m)
-                return v[0];
-                int step=v[0];
-                int i=v[1];
-                int j=v[2];
-                if(ring[i]==key[j]){
-                    q.push({step+1,i,j+1});
-                    continue;
-                }
-                if(visited[(i+1)%n][j]==0){
-                    visited[(i+1)%n][j]=1;
-                    q.push({step+1,(i+1)%n,j});
-                }
-                if(visited[(i-1+n)%n][j]==0){
-                    visited[(i-1+n)%n][j]=1;
-                    q.push({step+1,(i-1+n)%n,j});
+            vector<int>v=q.top();
+            q.pop();
+            int i=v[1];
+            int j=v[2];
+            int step=v[0];
+            if(j==m)
+            return m+step;
+            for(auto &it:store[key[j]-'a']){
+                int cal=mindis(i,it,n)+step;
+                if(dist[it][j+1]>cal){
+                    dist[it][j+1]=cal;
+                    q.push({cal,it,j+1});
                 }
             }
         }

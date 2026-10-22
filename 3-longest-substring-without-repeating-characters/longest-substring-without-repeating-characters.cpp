@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        map<char,int>m;
+        vector<int>m(256,0);
         int l=0,r=0,n=s.size(),ans=0;
         while(r<n){
             m[s[r]]++;

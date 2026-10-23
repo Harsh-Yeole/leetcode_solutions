@@ -1,22 +1,25 @@
-int dp[2001];
 class Solution {
 public:
-    bool isPalindrome(string& s, int start, int end) {
-        while (start<end) {
-            if (s[start++]!=s[end--]) return false;
+    bool check(string &s,int i,int j){
+        while(i<j){
+            if(s[i++]!=s[j--])
+            return false;
         }
         return true;
     }
     
     int minCut(string s) {
-        int n = s.size();
-        memset(dp,0,sizeof(int)*(n+1));
-        for (int i=n-1; i>=0; i--) {
-            int mini = n;
-            for (int k=i; k<n; k++) {
-                if (isPalindrome(s,i,k)) mini = min(mini, 1+dp[k+1]);
+        int n=s.size();
+        vector<int>dp(n+1,0);
+        for(int j=n-1;j>=0;j--){
+            int ans=INT_MAX;
+            for(int i=j;i<n;i++){
+                if(check(s,j,i)){
+                    int cal=1+dp[i+1];
+                    ans=min(ans,cal);
+                }
             }
-            dp[i] = mini;
+            dp[j]=ans;
         }
         return dp[0]-1;
     }
